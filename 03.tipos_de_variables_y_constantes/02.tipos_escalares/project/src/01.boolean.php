@@ -2,13 +2,14 @@
 <html>
 
 <body>
-  <h1>Etiquetas</h1>
+  <h1>Tipos boolean</h1>
   <?php
   // código php
   ?>
   <?php
-    $txt = "PHP";
-    echo  "I love $txt";
+    $variable = TRUE;
+    echo ($variable);
+    var_dump($variable);
   ?>
   <a href="./">volver al index</a>
 </body>
