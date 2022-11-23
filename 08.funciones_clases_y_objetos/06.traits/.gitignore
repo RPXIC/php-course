@@ -1,0 +1,5 @@
+.docker
+.env
+mysql/*
+log/*/*.log
+/project/vendor
